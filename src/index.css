@@ -1,0 +1,111 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-display: 'Space Grotesk', sans-serif;
+  --font-sans: 'Inter', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  --color-deep-indigo: #0B1020;
+  --color-graphite: #1E2633;
+  --color-tangerine: #F07836;
+  --color-electric-lime: #C5F467;
+  --color-arctic-cyan: #5CC8FF;
+  --color-copper: #C47A50;
+  --color-ivory: #F7F5EF;
+  --color-pure-white: #FFFFFF;
+  --color-secondary-text: #9BA7B7;
+}
+
+:root {
+  --bg-primary: #0B1020;
+  --bg-surface: #1E2633;
+  --accent-tangerine: #F07836;
+  --accent-lime: #C5F467;
+  --accent-cyan: #5CC8FF;
+  --accent-copper: #C47A50;
+  --text-muted: #9BA7B7;
+}
+
+html {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  scroll-behavior: smooth;
+}
+
+h1, h2, h3, h4, .font-heading {
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+code, pre, .font-code {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0B1020;
+}
+::-webkit-scrollbar-thumb {
+  background: #1E2633;
+  border-radius: 4px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #F07836;
+}
+
+/* Glassmorphism primitives */
+.glass-panel-dark {
+  background: rgba(14, 21, 39, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.glass-panel-subtle {
+  background: rgba(30, 38, 51, 0.65);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* Signature Gradients */
+.bg-gradient-indigo-tangerine {
+  background: linear-gradient(135deg, #43358B 0%, #F07836 100%);
+}
+
+.bg-gradient-teal-lime {
+  background: linear-gradient(135deg, #007F78 0%, #C5F467 100%);
+}
+
+.bg-gradient-copper-ivory {
+  background: linear-gradient(135deg, #C47A50 0%, #F7F5EF 100%);
+}
+
+.text-gradient-tangerine {
+  background: linear-gradient(135deg, #FFFFFF 20%, #F07836 90%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-lime-cyan {
+  background: linear-gradient(135deg, #C5F467 10%, #5CC8FF 90%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Subtle glow utilities */
+.glow-tangerine {
+  box-shadow: 0 0 35px -5px rgba(240, 120, 54, 0.35);
+}
+
+.glow-lime {
+  box-shadow: 0 0 35px -5px rgba(197, 244, 103, 0.3);
+}
+
+.glow-cyan {
+  box-shadow: 0 0 35px -5px rgba(92, 200, 255, 0.3);
+}

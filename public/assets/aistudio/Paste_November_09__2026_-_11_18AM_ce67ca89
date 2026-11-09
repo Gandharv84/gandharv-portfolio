@@ -1,0 +1,1186 @@
+# RDX — SPECTRUM FUSION
+## MASTER PROMPT FOR A PREMIUM SOFTWARE ENGINEER PORTFOLIO WEBSITE
+
+---
+
+# 1. YOUR ROLE AND MISSION
+
+Act as a world-class multidisciplinary product development team consisting of:
+
+- Principal Product Designer
+- Creative Director
+- Senior UI/UX Designer
+- Staff Frontend Engineer
+- Full-Stack Software Architect
+- Interaction and Motion Designer
+- Technical SEO Specialist
+- Accessibility Engineer
+- Performance Optimization Specialist
+
+Your mission is to design and build a premium, production-quality, fully responsive personal portfolio website.
+
+This is not a generic student portfolio.
+
+It must be a distinctive personal digital identity that communicates technical capability, engineering thinking, project experience, curiosity, problem-solving ability, and professional credibility.
+
+The portfolio must appeal to:
+
+1. Technical recruiters.
+2. Software engineering hiring managers.
+3. Internship recruiters.
+4. Product engineering teams.
+5. AI/ML and data-oriented hiring teams.
+6. Technology founders and development teams.
+
+The website must establish a strong professional impression within the first 5–10 seconds.
+
+Build an actual functional application, not merely a static UI concept.
+
+PROJECT NAME: RDX — SPECTRUM FUSION
+
+BRAND POSITIONING:
+Engineering Ideas Into Real-World Solutions.
+
+CORE MESSAGE:
+Build. Learn. Innovate.
+
+---
+
+# 2. PERSONAL PROFILE AND BRAND IDENTITY
+
+Use the following information as the initial portfolio content.
+
+Name: RDX [Editable Full Name]
+
+Professional Title:
+Aspiring Software Engineer | Full-Stack Developer | AI/ML Enthusiast
+
+Education:
+Master of Computer Applications (MCA)
+
+Expected Graduation:
+2027
+
+Location:
+Maharashtra, India
+
+Professional Interests:
+- Full-Stack Software Development
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Backend Engineering
+- Database Architecture
+- UI/UX and Product Development
+
+Professional Introduction:
+
+"I am an MCA student and aspiring software engineer interested in building practical, intelligent, and user-focused applications.
+
+My development journey involves exploring full-stack technologies, integrating databases, implementing application logic, experimenting with AI-powered systems, and transforming ideas into functional software solutions.
+
+I enjoy understanding how systems work, solving technical challenges, and continuously improving my engineering capabilities."
+
+Professional Availability:
+Open to Internship Opportunities – 2027.
+
+Preferred Internship Locations:
+Pune | Mumbai | Remote.
+
+IMPORTANT CONTENT RULES:
+
+- Present me as an aspiring software engineer.
+- Never claim senior-level engineering expertise.
+- Never invent employment history.
+- Never invent internships.
+- Never fabricate achievements or certifications.
+- Never invent CGPA or academic scores.
+- Never create fake client projects.
+- Never display fabricated company affiliations.
+- Distinguish academic projects from professional employment.
+- Keep all profile information editable.
+
+---
+
+# 3. SIGNATURE DESIGN SYSTEM — SPECTRUM FUSION
+
+This is the most important visual requirement.
+
+Create an original visual identity combining:
+
+- Graphite sophistication.
+- Deep Indigo depth.
+- Tangerine energy.
+- Electric Lime innovation.
+- Arctic Cyan technology accents.
+- Copper warmth.
+- Ivory editorial elegance.
+
+Do not simply apply a conventional dark theme.
+
+The visual identity should feel like a premium technology brand with its own recognizable design language.
+
+## 3.1 CORE COLOR PALETTE
+
+Use these exact color tokens.
+
+DEEP INDIGO
+HEX: #0B1020
+Usage: Primary dark background, cinematic hero, footer.
+
+GRAPHITE
+HEX: #1E2633
+Usage: Navigation, dark cards, secondary surfaces.
+
+TANGERINE
+HEX: #F07836
+Usage: Primary CTA, brand highlights, active navigation, important actions.
+
+ELECTRIC LIME
+HEX: #C5F467
+Usage: AI indicators, active states, technical accents, availability indicators.
+
+ARCTIC CYAN
+HEX: #5CC8FF
+Usage: Technical information, data visualization, links and secondary highlights.
+
+COPPER
+HEX: #C47A50
+Usage: Editorial details, subtle gradients, warm visual accents.
+
+IVORY
+HEX: #F7F5EF
+Usage: Main light sections, editorial backgrounds.
+
+PURE WHITE
+HEX: #FFFFFF
+Usage: Project cards, content surfaces and readable light UI.
+
+SECONDARY TEXT:
+HEX: #9BA7B7
+
+SUBTLE BORDER:
+rgba(255,255,255,0.12)
+
+## 3.2 COLOR DISTRIBUTION
+
+Follow this suggested distribution within the dark visual identity:
+
+- Deep Indigo: 40%
+- Graphite: 20%
+- Tangerine: 15%
+- Electric Lime: 10%
+- Arctic Cyan: 10%
+- Ivory: 5%
+
+These are visual guidance ratios, not rigid page-wide CSS percentages. Ivory and white must also be used generously in the light content sections.
+
+## 3.3 SIGNATURE GRADIENTS
+
+Create these three brand gradients:
+
+1. Indigo to Tangerine:
+#43358B → #F07836
+
+2. Teal to Electric Lime:
+#007F78 → #C5F467
+
+3. Copper to Ivory:
+#C47A50 → #F7F5EF
+
+Use gradients selectively.
+
+Avoid excessive neon effects, random multicolor gradients, and unnecessary glowing elements.
+
+## 3.4 TYPOGRAPHY
+
+Use a sophisticated typography system.
+
+Recommended:
+- Headings: Space Grotesk
+- Body: Inter
+- Technical/code elements: JetBrains Mono
+
+Use:
+- Strong editorial headlines.
+- Consistent font weights.
+- Carefully controlled line lengths.
+- Generous whitespace.
+- Excellent contrast and readability.
+
+---
+
+# 4. VISUAL EXPERIENCE AND ART DIRECTION
+
+The overall experience should combine:
+
+- Premium technology branding.
+- Modern editorial layouts.
+- Cinematic dark hero.
+- Minimalist light sections.
+- Sophisticated project presentation.
+- Carefully selected glassmorphism.
+- Subtle 3D-inspired decorative elements.
+- Elegant scroll transitions.
+- Precise spacing and alignment.
+
+The homepage should transition between dark and light visual environments.
+
+DESIRED PAGE FLOW:
+
+1. Cinematic dark hero.
+2. Professional introduction.
+3. Featured projects on ivory background.
+4. Technical skills.
+5. Detailed engineering case studies.
+6. Development journey.
+7. Education.
+8. GitHub and developer activity.
+9. Contact section.
+10. Dark premium footer.
+
+The contrast between dark and light sections must feel intentional and seamless.
+
+---
+
+# 5. WEBSITE NAVIGATION
+
+Create a sophisticated sticky navigation bar.
+
+Left side:
+RDX. brand logo.
+
+Right side:
+- Home
+- Projects
+- Case Studies
+- Skills
+- About
+- Contact
+
+Additional actions:
+- Resume download.
+- Theme switcher.
+- Mobile navigation menu.
+
+Requirements:
+
+- Transparent or subtly glassmorphic navigation over the hero.
+- Graphite surface when scrolling.
+- Tangerine active navigation indicator.
+- Smooth scrolling.
+- Accessible keyboard navigation.
+- Functional mobile hamburger menu.
+- Proper focus states.
+
+Do not overcrowd the navigation.
+
+---
+
+# 6. HERO SECTION — THE FIRST IMPRESSION
+
+Create a cinematic, high-impact hero section.
+
+This section must immediately communicate identity, technical direction and personality.
+
+LAYOUT:
+
+Use an elegant split layout.
+
+LEFT SIDE:
+
+Small label:
+
+MCA STUDENT · CLASS OF 2027
+
+Main headline:
+
+"I Build Software for"
+
+Highlight headline:
+
+"Real-World Impact."
+
+Supporting headline:
+
+"Full-Stack Development | AI/ML | Data Science"
+
+Description:
+
+"Aspiring Software Engineer crafting practical, intelligent and user-focused applications with modern technologies."
+
+Primary CTA:
+Explore My Projects →
+
+Secondary CTA:
+Download Resume ↓
+
+Availability indicator:
+Open to Internship Opportunities.
+
+Additional links:
+- GitHub
+- LinkedIn
+- Email
+
+RIGHT SIDE:
+
+Build a distinctive developer-inspired visual composition.
+
+Use:
+- Floating code editor window.
+- Subtle code syntax highlighting.
+- Abstract digital landscape.
+- Layered technical graphics.
+- Carefully controlled cyan and lime light effects.
+
+The code editor can display an editable developer identity configuration.
+
+Example:
+
+const RDX = {
+  role: "Software Engineer",
+  focus: ["Full-Stack", "AI", "Data Science"],
+  mindset: "Build. Learn. Innovate."
+};
+
+Do not use a random stock photograph.
+
+If a genuine profile photograph is provided, integrate it professionally. Otherwise use an abstract technical composition.
+
+BOTTOM HERO STRIP:
+
+Create three concise information blocks:
+
+- 03 Featured Projects
+- 2027 Graduation
+- Continuous Learning & Building
+
+Only use verified numbers and factual information. The project count must update if the portfolio project list changes.
+
+---
+
+# 7. ABOUT SECTION
+
+Heading:
+
+"Beyond Writing Code."
+
+Create an editorial-style professional introduction.
+
+Explain:
+- My interest in software engineering.
+- My journey through MCA.
+- My experience developing academic projects.
+- My interest in AI-powered applications.
+- My understanding of frontend and backend development.
+- My interest in system design and database architecture.
+- My commitment to continuous improvement.
+
+Include a professional information panel:
+
+Education: MCA
+Graduation: 2027
+Location: Maharashtra, India
+Career Focus: Software Engineering
+Interests: Full-Stack Development, AI and Data Science.
+
+Use an elegant two-column layout.
+
+Avoid generic motivational paragraphs.
+
+---
+
+# 8. FEATURED PROJECTS — MOST IMPORTANT SECTION
+
+This section must be visually dominant after the hero.
+
+Show actual project screenshots where available.
+
+Use large premium cards, not small generic boxes.
+
+Create detailed case-study navigation for each project.
+
+## PROJECT 01 — REMINDME
+
+Category:
+Full-Stack Development | SaaS | Management Systems
+
+Description:
+
+"RemindMe is a vehicle and dealership management platform designed to organize customer records, vehicle information, servicing schedules, insurance policies, PUC documents, and reminder workflows."
+
+TECH STACK:
+
+Frontend:
+- React 19
+- TypeScript
+- Vite
+- Tailwind CSS
+
+Backend:
+- Node.js
+- Express.js
+
+Database:
+- PostgreSQL
+- Prisma ORM
+
+KEY FEATURES:
+
+- Customer management.
+- Vehicle management.
+- Service record tracking.
+- Insurance policy management.
+- PUC document tracking.
+- Upcoming and overdue reminders.
+- Admin dashboard.
+- Customer portal.
+- Appointment request workflow.
+- Reminder history.
+
+CASE STUDY CONTENT:
+
+Explain:
+
+1. Business problem.
+2. Proposed solution.
+3. Application architecture.
+4. Database design.
+5. Authentication and authorization.
+6. API structure.
+7. Reminder management workflow.
+8. Technical challenges.
+9. Development decisions.
+10. Future improvements.
+
+Show relevant screenshots:
+- Admin dashboard.
+- Customer management.
+- Vehicle details.
+- Reminder management.
+- Service history.
+
+Use real screenshots supplied by me. If unavailable, use clearly labelled conceptual UI illustrations, never claim they are actual screenshots.
+
+## PROJECT 02 — TECHTALK VAULT
+
+Category:
+Artificial Intelligence | Full-Stack Development | Educational Technology
+
+Description:
+
+"TechTalk Vault is a curated technology learning platform designed to organize technical interviews, podcasts, discussions and learning resources for IT students."
+
+TECH STACK:
+
+Frontend:
+- HTML5
+- CSS3
+- JavaScript
+
+Backend:
+- Python
+- Flask
+
+Database:
+- MongoDB
+
+AI Exploration:
+- Gemini API
+- Ollama
+- Local Phi model
+- RAG concepts
+- Sentence Transformers
+- FAISS
+- YouTube transcript extraction
+
+KEY FEATURES:
+
+- Curated interview library.
+- Domain-wise learning resources.
+- AI-powered learning assistance.
+- Admin dashboard.
+- User authentication.
+- Technical content organization.
+- Retrieval-Augmented Generation experimentation.
+
+CASE STUDY CONTENT:
+
+Explain:
+
+1. Problem statement.
+2. Platform architecture.
+3. Content organization.
+4. Backend implementation.
+5. Database integration.
+6. AI integration.
+7. Gemini quota limitations.
+8. Local LLM experimentation.
+9. RAG pipeline exploration.
+10. Future improvements.
+
+Clearly distinguish implemented functionality from experimental or planned functionality.
+
+Show relevant screenshots:
+- Homepage.
+- Interview library.
+- Domain categories.
+- AI support.
+- Admin dashboard.
+
+## PROJECT 03 — MERN AUTHENTICATION SYSTEM
+
+Category:
+Full-Stack Development | Authentication | Security
+
+Description:
+
+"A full-stack authentication application demonstrating user registration, login, secure password storage, and protected dashboard functionality."
+
+TECH STACK:
+
+- MongoDB
+- Express.js
+- React
+- Node.js
+- JWT
+- bcrypt
+
+KEY FEATURES:
+
+- User registration.
+- User login.
+- Password hashing.
+- JWT authentication.
+- Protected dashboard.
+- Authentication workflow.
+
+CASE STUDY CONTENT:
+
+Explain:
+
+1. Application architecture.
+2. Registration workflow.
+3. Authentication process.
+4. Password security.
+5. Token-based authentication.
+6. Protected routes.
+7. Technical learnings.
+
+Do not claim enterprise-grade security without a verified security audit.
+
+## PROJECT CARD DESIGN
+
+Each card must include:
+
+- Project category.
+- Project name.
+- Concise description.
+- Actual screenshot or conceptual mockup.
+- Technology badges.
+- GitHub button.
+- Live demo button if available.
+- View Case Study button.
+
+Use orange accents for RemindMe, lime/cyan accents for TechTalk Vault, and copper accents for the MERN project.
+
+Add functional filters:
+
+- All Projects
+- Full-Stack
+- AI / ML
+- Backend
+- Security
+
+All project information must be driven by centralized configuration data.
+
+---
+
+# 9. DETAILED PROJECT CASE STUDIES
+
+Create dedicated case-study pages or well-designed detailed project views.
+
+Every case study should follow this structure:
+
+01. Project Overview
+02. Problem Statement
+03. Proposed Solution
+04. System Architecture
+05. Technology Stack
+06. Database Design
+07. Implementation Details
+08. Development Challenges
+09. Engineering Decisions
+10. Key Learnings
+11. Future Roadmap
+
+Include:
+- Architecture diagrams.
+- Data flow diagrams where useful.
+- Screenshots.
+- Technology labels.
+- Code excerpts where relevant.
+- Previous/next project navigation.
+
+Diagrams must be technically accurate.
+
+Never invent implementation details that have not been provided.
+
+---
+
+# 10. TECHNICAL SKILLS
+
+Build a sophisticated technical capability section.
+
+Organize skills into categories.
+
+PROGRAMMING:
+Python, Java, C#, C++.
+
+FRONTEND:
+HTML5, CSS3, JavaScript, React, TypeScript, Tailwind CSS.
+
+BACKEND:
+Node.js, Express.js, Flask.
+
+DATABASE:
+MongoDB, PostgreSQL, MySQL.
+
+AI AND DATA:
+Artificial Intelligence fundamentals, Machine Learning fundamentals, Data Science, Pandas, RAG fundamentals, FAISS, Sentence Transformers, Ollama.
+
+DEVELOPER TOOLS:
+Git, GitHub, VS Code, Postman, Vite, Prisma.
+
+VISUAL DESIGN:
+
+Use:
+- Technology icon grids.
+- Compact skill cards.
+- Categorized sections.
+- Interactive details.
+- Subtle hover animations.
+
+Do not create arbitrary skill percentages.
+
+Clearly distinguish:
+- Used in projects.
+- Academic knowledge.
+- Currently exploring.
+
+Do not imply mastery of every listed technology.
+
+---
+
+# 11. DEVELOPMENT JOURNEY
+
+Create a visual timeline titled:
+
+"My Engineering Journey."
+
+Include editable entries representing:
+
+- Academic programming experience.
+- Full-stack development exploration.
+- Database-driven applications.
+- Authentication implementation.
+- AI API integration.
+- Local LLM experimentation.
+- RAG pipeline exploration.
+- Modern frontend development.
+
+Present these as development and learning milestones, not employment positions.
+
+Include a separate professional experience section only when genuine experience is supplied.
+
+---
+
+# 12. EDUCATION AND CERTIFICATIONS
+
+EDUCATION:
+
+Master of Computer Applications (MCA)
+Expected Graduation: 2027.
+
+Include editable fields:
+- College name.
+- Institution details.
+- Academic year.
+- Relevant coursework.
+- Achievements.
+
+CERTIFICATIONS:
+
+Create a clean certification gallery.
+
+Only display certificates that are actually provided or verified.
+
+Each certificate can include:
+- Certificate name.
+- Issuing organization.
+- Issue date.
+- Credential link.
+
+If no verified certifications are provided, hide the section rather than displaying fake information.
+
+---
+
+# 13. GITHUB AND DEVELOPER ACTIVITY
+
+Build a GitHub-focused section.
+
+Include:
+- GitHub profile link.
+- Public repository showcase.
+- Repository descriptions.
+- Programming languages.
+- Recent projects.
+- Contribution activity visualization if reliable data is available.
+
+If integrating GitHub API:
+
+- Use appropriate public API endpoints.
+- Handle rate limits.
+- Provide loading states.
+- Provide empty states.
+- Handle API errors.
+- Never expose private credentials in frontend code.
+
+Do not fabricate contribution counts, stars, followers, repository numbers or coding statistics.
+
+If live API integration is unavailable, use manually configurable verified repository information.
+
+---
+
+# 14. RESUME INTEGRATION
+
+Create a professional resume access system.
+
+Requirements:
+
+- Prominent Download Resume button in the navigation.
+- Download Resume button in hero.
+- Resume access in footer.
+
+Use a real uploaded PDF.
+
+Implement:
+- Direct PDF download.
+- Descriptive filename.
+- Optional resume preview.
+- Proper fallback when no resume is uploaded.
+
+Do not generate a fictional resume.
+
+---
+
+# 15. CONTACT AND RECRUITER CONVERSION
+
+Heading:
+
+"Have an Opportunity? Let's Connect."
+
+Supporting text:
+
+"Interested in internship opportunities, software development, AI projects, and meaningful engineering challenges. Let's connect."
+
+Create a clean professional contact form.
+
+Fields:
+- Full Name.
+- Email Address.
+- Subject.
+- Message.
+
+Requirements:
+- Required field validation.
+- Email format validation.
+- Loading state.
+- Success state.
+- Error state.
+- Spam protection.
+- Accessible labels.
+
+Use a working backend or verified email integration if configured.
+
+If no email backend is configured, implement a functional mailto fallback.
+
+Display:
+- Professional email.
+- LinkedIn.
+- GitHub.
+- Location.
+
+Never fabricate email addresses or social URLs.
+
+Make the contact CTA highly visible without being intrusive.
+
+---
+
+# 16. FOOTER
+
+Create a distinctive dark footer.
+
+Include:
+
+RDX. logo.
+
+Short statement:
+"Building, learning and exploring the future of software engineering."
+
+Quick navigation:
+Home, Projects, Skills, About, Contact.
+
+Social:
+GitHub, LinkedIn, Email.
+
+Include:
+- Dynamic current year.
+- Back-to-top functionality.
+- Copyright information.
+
+---
+
+# 17. INTERACTION AND MOTION DESIGN
+
+Implement carefully selected premium interactions.
+
+Required:
+
+1. Smooth scrolling.
+2. Sticky navigation.
+3. Active navigation tracking.
+4. Scroll-triggered section reveals.
+5. Project card interactions.
+6. Project category filters.
+7. Theme switcher.
+8. Responsive mobile menu.
+9. Subtle hero animations.
+10. Interactive code editor decoration.
+11. Back-to-top button.
+12. Button hover transitions.
+13. Case-study navigation.
+14. Contact form states.
+15. Resume download.
+
+ANIMATION DIRECTION:
+
+Use Framer Motion or an appropriate lightweight library.
+
+Animations should feel deliberate, smooth and professional.
+
+Use:
+- Subtle fade-ins.
+- Controlled slide transitions.
+- Small scale changes.
+- Soft gradient movement.
+- Carefully timed stagger animations.
+
+Do not animate every element.
+
+Respect prefers-reduced-motion.
+
+Never sacrifice usability or performance for animations.
+
+---
+
+# 18. RESPONSIVE DESIGN
+
+The website must be fully responsive.
+
+Test:
+- 375px mobile.
+- 390px mobile.
+- 768px tablet.
+- 1024px laptop.
+- 1440px desktop.
+- Large desktop screens.
+
+Requirements:
+
+- No horizontal overflow.
+- Responsive typography.
+- Responsive navigation.
+- Consistent spacing.
+- Proper card stacking.
+- Touch-friendly buttons.
+- Mobile-optimized hero composition.
+- Correct image scaling.
+- Readable project case studies.
+
+Mobile must be treated as a first-class experience, not an afterthought.
+
+---
+
+# 19. TECHNICAL ARCHITECTURE
+
+Preferred technology stack:
+
+Frontend:
+- React.
+- TypeScript.
+- Vite.
+- Tailwind CSS.
+- Lucide icons.
+- Framer Motion.
+
+Architecture:
+
+Build reusable, modular components.
+
+Suggested folder structure:
+
+src/
+  components/
+    Navbar/
+    Hero/
+    About/
+    Skills/
+    ProjectCard/
+    ProjectDetails/
+    Timeline/
+    Education/
+    GitHub/
+    Contact/
+    Footer/
+
+  pages/
+    Home/
+    Projects/
+    CaseStudies/
+
+  data/
+    profile.ts
+    projects.ts
+    skills.ts
+    education.ts
+    social.ts
+
+  hooks/
+  utils/
+  assets/
+  styles/
+
+  App.tsx
+  main.tsx
+
+Keep all portfolio content in centralized configuration files.
+
+Use reusable components rather than duplicating markup.
+
+Use semantic HTML.
+
+Use strong TypeScript types.
+
+Avoid unnecessary dependencies.
+
+Do not introduce a backend unless the required functionality needs one.
+
+If a backend is necessary, explain the architecture and configuration clearly.
+
+---
+
+# 20. SEO, ACCESSIBILITY AND PERFORMANCE
+
+SEO:
+
+- Descriptive page title.
+- Meta description.
+- Open Graph metadata.
+- Social sharing image.
+- Favicon.
+- Semantic headings.
+- Descriptive image alt text.
+- Canonical URL placeholder.
+- robots.txt.
+- Sitemap where appropriate.
+
+ACCESSIBILITY:
+
+- Keyboard navigation.
+- Proper focus indicators.
+- Accessible contrast.
+- ARIA labels when necessary.
+- Semantic forms.
+- Reduced motion support.
+- Screen-reader-friendly navigation.
+
+PERFORMANCE:
+
+- Lazy-loaded images.
+- Optimized image formats.
+- Code splitting where useful.
+- Minimal unnecessary JavaScript.
+- Stable layout dimensions.
+- Efficient component rendering.
+- Good Core Web Vitals.
+
+Target excellent Lighthouse performance, accessibility, SEO and best-practice scores.
+
+Do not claim scores until actually tested.
+
+---
+
+# 21. FUNCTIONALITY AND SECURITY RULES
+
+STRICT REQUIREMENTS:
+
+- No broken navigation.
+- No fake buttons.
+- No placeholder lorem ipsum.
+- No fake statistics.
+- No fabricated testimonials.
+- No fabricated certifications.
+- No fake employment history.
+- No invented GitHub links.
+- No invented deployment URLs.
+- No exposed API secrets.
+- No insecure handling of contact submissions.
+- No unnecessary console errors.
+
+Every visible interaction must have a real defined action.
+
+Use safe environment configuration for credentials.
+
+Never hardcode API keys into frontend source code.
+
+---
+
+# 22. DEVELOPMENT EXECUTION PLAN
+
+Do not generate the entire application as an unstructured single component.
+
+Execute the work in phases.
+
+PHASE 1 — BRAND AND DESIGN SYSTEM
+
+- Establish Spectrum Fusion tokens.
+- Configure typography.
+- Build spacing system.
+- Define component styles.
+- Establish dark/light surfaces.
+- Implement reusable design primitives.
+
+PHASE 2 — CORE WEBSITE
+
+- Navigation.
+- Hero.
+- About.
+- Featured projects.
+- Skills.
+
+PHASE 3 — PROJECT EXPERIENCE
+
+- Project case studies.
+- Technical architecture diagrams.
+- Development journey.
+- Education.
+- GitHub section.
+
+PHASE 4 — CONVERSION
+
+- Resume download.
+- Contact form.
+- Social integrations.
+- Footer.
+
+PHASE 5 — INTERACTIONS
+
+- Motion.
+- Theme switching.
+- Navigation.
+- Filters.
+- Responsive menu.
+
+PHASE 6 — QUALITY ASSURANCE
+
+- Test every route.
+- Test every button.
+- Test every form.
+- Verify every link.
+- Test mobile layouts.
+- Check console errors.
+- Check accessibility.
+- Optimize loading performance.
+- Fix all identified issues.
+
+Do not declare completion until the implemented features have been tested.
+
+---
+
+# 23. FINAL QUALITY GATE
+
+Before declaring the website complete, verify:
+
+[ ] Brand colors are consistent.
+[ ] Hero creates a strong first impression.
+[ ] Typography is polished.
+[ ] Navigation works.
+[ ] Projects are accurately represented.
+[ ] Case studies are accessible.
+[ ] Skills are categorized.
+[ ] Resume download works.
+[ ] GitHub links work.
+[ ] LinkedIn links work.
+[ ] Contact form works or has a mailto fallback.
+[ ] Dark and light themes work if implemented.
+[ ] Mobile menu works.
+[ ] Responsive layouts work.
+[ ] No horizontal overflow.
+[ ] No fabricated content.
+[ ] No broken buttons.
+[ ] No exposed secrets.
+[ ] SEO metadata exists.
+[ ] Accessibility issues have been checked.
+[ ] Performance has been optimized.
+
+---
+
+# 24. FINAL CREATIVE DIRECTION
+
+The final website must feel like an original personal technology brand.
+
+It must not look like:
+
+- A generic student portfolio.
+- A copied SaaS dashboard.
+- An ordinary Bootstrap template.
+- A collection of unrelated gradients.
+- A flashy animation experiment.
+- An AI-generated template filled with meaningless content.
+
+It must look like a carefully art-directed engineering portfolio.
+
+The first impression should be:
+
+"Here is an aspiring software engineer who understands how to build, structure, present and explain software projects."
+
+The second impression should be:
+
+"I can explore the actual projects, understand the technical decisions, and contact this candidate easily."
+
+The third impression should be:
+
+"This candidate is worth interviewing."
+
+FINAL INSTRUCTION:
+
+Start building RDX — SPECTRUM FUSION now.
+
+Use the complete specification above.
+
+Prioritize visual quality, technical credibility, real functionality, responsive design, and recruiter experience.
+
+Do not stop at a design preview.
+
+Build the complete application, test it, identify weaknesses, correct them, and present the finished working portfolio.
+
+When implementation is complete, provide a concise technical summary of:
+1. What was built.
+2. Technologies used.
+3. Functional features.
+4. Any configuration still required.
+5. How to run and deploy the application.
+
+The final result must be memorable, credible, professional and technically sound.
